@@ -1,16 +1,16 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'Golang net/http & HTTP Serve 源码分析'
-pubDate: 2035-06-01
-description: '很多Go web框架都通过封装 net/http 来实现核心功能，因此学习 net/http 是研究 Gin等框架的基础。'
-author: 'Austin'
+title: 'Personal Blog based on Astro'
+pubDate: 2023-05-01
+description: 'After using many frameworks like Hexo, Wordpress... I finally choose Astro'
+author: 'JerryYan'
 cover:
     url: 'https://pic.lookcos.cn/i/usr/uploads/2022/04/2067928922.png'
     square: 'https://pic.lookcos.cn/i/usr/uploads/2022/04/2067928922.png'
     alt: 'cover'
-tags: ["源码研究", "标准库", "golang", "gin"]
+tags: ["Chitchat", "Blog", "Astro"]
 theme: 'light'
-featured: false
+featured: true
 ---
 
 ![Go HTTP Server的大致处理流程|wide](https://pic.lookcos.cn/i/usr/uploads/2023/02/3697706570.png)
