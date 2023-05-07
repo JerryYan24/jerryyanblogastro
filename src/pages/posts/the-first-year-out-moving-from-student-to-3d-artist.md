@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Number Generator based on GANs'
-pubDate: 2035-8-01
+pubDate: 2036-8-01
 description: 'A simple implementation of Generative Adversarial Networks'
 author: 'Jerry'
 cover:

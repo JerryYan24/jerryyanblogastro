@@ -1,14 +1,14 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '2023年VR游戏周即将到来！'
-pubDate: 2023-04-17
-description: 'Vr Games Week 2023 Starts Next Week'
+title: 'Towercrane Control Interaction Design'
+pubDate: 2036-04-17
+description: 'A design of a complete operating system of Towercrane Controler'
 author: '虚幻引擎官网'
 cover:
-    url: 'https://cdn2.unrealengine.com/vr-week-2023-header-4-1920x1080-376e6c48383f.jpg?resize=1&w=1920'
-    square: 'https://cdn2.unrealengine.com/vr-week-2023-header-4-1920x1080-376e6c48383f.jpg?resize=1&w=1920'
+    url: 'https://s1.ax1x.com/2023/05/07/p9dBlmF.png'
+    square: 'https://s1.ax1x.com/2023/05/07/p9dBlmF.png'
     alt: 'cover'
-tags: ["功能", "动画", "广播与实况", "虚幻引擎"]
+tags: ["Project", "动画", "广播与实况", "虚幻引擎"]
 theme: 'light'
 featured: false
 ---
