@@ -1,14 +1,14 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '毕业第一年：从学生向3D美术师的转变'
+title: 'Number Generator based on GANs'
 pubDate: 2035-8-01
-description: '如何从学校踏入暴雪娱乐、DNEG等游戏和视觉特效巨擘，经历鼓舞人心的三位3D美术师给出了他们的专业建议。'
-author: '虚幻引擎官网'
+description: 'A simple implementation of Generative Adversarial Networks'
+author: 'Jerry'
 cover:
-    url: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
-    square: 'https://cdn2.unrealengine.com/student-to-3d-artist-header-1920x1080-73d477520f8e.jpg?resize=1&w=1920'
+    url: 'https://s1.ax1x.com/2023/05/05/p9NzCTg.png'
+    square: 'https://s1.ax1x.com/2023/05/05/p9NzCTg.png'
     alt: 'cover'
-tags: ["特写", "影视", "教育", "游戏", "3d", "新闻稿"]
+tags: ["AI", "GANs", "Mnist"]
 theme: 'dark'
 featured: true
 ---

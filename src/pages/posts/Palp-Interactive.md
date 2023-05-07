@@ -1,21 +1,21 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '浅谈 Go 1.18.1的切片扩容机制'
-pubDate: 2022-04-17
-description: '从Go源码分析切片的扩容机制。'
-author: 'Austin'
+title: 'Palp Interactive: VR haptic interaction'
+pubDate: 2083-05-5
+description: 'From lab to market, be a Academy Entrepreneur'
+author: 'Jerry'
 cover:
-    url: 'https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png'
-    square: 'https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png'
+    url: 'https://s1.ax1x.com/2023/05/05/p9Nv6PA.png'
+    square: 'https://s1.ax1x.com/2023/05/05/p9Nv6PA.png'
     alt: 'cover'
-tags: ["源码研究", "标准库", "golang", "slice"]
+tags: ["Project", "VR", "Haptic"]
 theme: 'dark'
 featured: false
 ---
 
-![golang 吉祥物](https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png)
+![VR Gloves](https://s1.ax1x.com/2023/05/05/p9Nv6PA.png)
 
-Go 1.18.1的源码大小为439Mib
+2022年，我和赵明宽、王一鸣创立了Midas VR触觉力反馈手套，准备参加当时的互联网＋比赛，随着时间的推移
 
 ```bash
 root@ubuntu:/home/lookcos/go# du -sh

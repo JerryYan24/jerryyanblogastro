@@ -9,6 +9,6 @@ export async function get() {
     description: SITE_DESCRIPTION,
     site: SITE_URL,
     items: items.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate)),
-    customData: `<language>zh-cn</language>`,
+    customData: `<language>en-us</language>`,
   });
 }

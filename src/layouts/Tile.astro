@@ -1,10 +1,10 @@
 ---
-import { formatDate } from "../utils";
+import { formatDateV2 } from "../utils";
 const { title, href, cover, tags, date, level} = Astro.props;
 
-const dateFormated = formatDate(date);
+const dateFormated = formatDateV2(date);
 const type = tags[0];
-const label = `${title} - ${type} - 发表时间 ${dateFormated}`;
+const label = `${title} - ${type} - PublishTime ${dateFormated}`;
 // level 1: hreo
 // level 2: 2up
 // level 3: 3up

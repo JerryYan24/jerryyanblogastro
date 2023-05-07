@@ -1,8 +1,8 @@
 export const SITE_TITLE = `JerryYan's Blog`;
 export const SITE_DESCRIPTION = 'Site Description';
 export const SITE_EMAIL = 'jerryyan24@outlook.com'
-export const SITE_NAME = 'https://jerryyanblog.vercel.app/';
-export const SITE_URL = "https://astro.yufengbiji.com";
+export const SITE_NAME = 'jerryyanblog.vercel.app';
+export const SITE_URL = "https://jerryyanblog.vercel.app";
 export const SITE_LANG = "en-US";
 
 // Author, used only when author is not specified on the page, 
