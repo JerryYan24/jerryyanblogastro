@@ -13,7 +13,7 @@ theme: 'dark'
 featured: false
 ---
 
-![VR Gloves](https://s1.ax1x.com/2023/05/05/p9Nv6PA.png)
+![VR Gloves](https://s1.ax1x.com/2023/05/05/p9Nv6PA.png?resize=1&w=1920)
 
 2022年，我和赵明宽、王一鸣创立了Midas VR触觉力反馈手套，准备参加当时的互联网＋比赛，随着时间的推移
 
