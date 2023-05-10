@@ -1,25 +1,23 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Personal Blog based on Astro'
-pubDate: 2023-05-01
+pubDate: 2036-05-01
 description: 'After using many frameworks like Hexo, Wordpress... I finally choose Astro'
 author: 'JerryYan'
 cover:
-    url: 'https://pic.lookcos.cn/i/usr/uploads/2022/04/2067928922.png'
-    square: 'https://pic.lookcos.cn/i/usr/uploads/2022/04/2067928922.png'
+    url: 'https://z3.ax1x.com/2021/12/01/oJLItP.jpg'
+    square: 'https://z3.ax1x.com/2021/12/01/oJLItP.jpg'
     alt: 'cover'
 tags: ["Chitchat", "Blog", "Astro"]
 theme: 'light'
 featured: true
 ---
 
-![Go HTTP Server的大致处理流程|wide](https://pic.lookcos.cn/i/usr/uploads/2023/02/3697706570.png)
+![Kaze tachinu](https://s1.ax1x.com/2021/12/09/o4wb4J.jpg)
 
 I've done many projects on my own or with my classmates during my college years, and I am always trying to find a way to record those beautiful memories. First I've tried write a detailed record, with pictures and the implementations in it. Later I found out that no one was keen on reading those pages since it was too long and complicated. So, I figured out that maybe upload a video on social media like youtube might be a good choice. Then I do make some video and upload it on a chinese social media called bilibili. I used a method called Manim to make smooth animation. It was rewarding and meaningful at the beginning. But soon I found out that I've spent too much time making videos, which is so time-comsuming if you want to make every details perfect. This isn't my orignial intention of making videos, my intention is to share knowledges or fun staffs with others. Not trying to be a youtuber. That's when I realize that the perfect way of recording is to write a blog, which it self is also a interesting thing.
 
 There are many frameworks that I've used to build my blog, such as Hexo, Wordpress and Astro. They all have some advantages in their own ways. But finally I chose to use Astro.
-
-服务器在收到请求时，首先进入路由 Router，接着路由会根据 request 请求的路径，找到对应的处理器(Handler)，处理器再根据 request 进行处理并构造 response 进行返回。
 
 ## 利用标准库实现一个简单HTTP Server
 
